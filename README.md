@@ -1,53 +1,63 @@
-# Olá, eu sou o ELpides Cristiano 👋
-
-Estudante de Informática focado em **Cibersegurança**, com ênfase em **Segurança Ofensiva (Red Teaming & Pentesting)**, desenvolvimento de ferramentas de segurança e infraestrutura de redes. 
-
-Atualmente, sigo uma rotina rigorosa de estudos diários que envolve programação, laboratórios práticos de redes e desafios de hacking (Wargames/CTFs).
-
----
-
-### 🚀 Áreas de Foco e Estudo Atual
-* **Web Pentesting:** Praticando ativamente na *PortSwigger Web Security Academy*.
-* **Linux & Scripting:** Automatizando tarefas com Bash e aprofundando conceitos no Linux (*Bandit/OverTheWire*).
-* **Desenvolvimento:** Construindo ferramentas de segurança e scripts em **Python** e **C**.
-* **Redes de Computadores:** Configuração e arquitetura de redes baseadas em ambientes Cisco (CCNA).
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Python, C, Bash script |
-| **Sistemas Operacionais** | Ubuntu, Linux (Terminal/CLI) |
-| **Redes** | Cisco IOS, Roteamento, Switching |
-| **Segurança/Pentesting** | Ferramentas de análise de vulnerabilidades Web, Wargames |
-
----
-
-### 🎯 Objetivos de Carreira
-Estou me preparando para atuar no mercado de segurança da informação, com o objetivo de prestar serviços de consultoria e auditoria de segurança (Pentesting) para empresas, ajudando-as a proteger suas infraestruturas contra ameaças modernas.
-
----
-
-### 📊 Estatísticas do GitHub
+# ⚡ Hello, World! I'm Elpides Cristiano 👋
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_AQUI]&show_icons=true&theme=radical" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_AQUI]&layout=compact&theme=radical" height="180" alt="Linguagens mais usadas" />
+  <img src="https://img.shields.io/badge/Focus-Offensive_Security-red?style=for-the-badge&logo=kalilinux" />
+  <img src="https://img.shields.io/badge/Role-Linux_SysAdmin_&_Pentesting-blue?style=for-the-badge&logo=linux" />
+</p>
+
+An Informatics student passionately deep-diving into **Cyber Security**, **Linux Systems Administration**, and **Red Teaming**. Guided by a rigorous daily routine to build advanced technical expertise.
+
+---
+
+### 🧠 Current Learning Paths & Labs
+* 🛡️ **Web Pentesting:** Discovering and exploiting vulnerabilities at *PortSwigger Web Security Academy*.
+* 🐧 **Linux SysAdmin:** Advanced administration, terminal automation, and system hardening.
+* 🌐 **Networking:** Designing and configuring secure routing/switching infrastructures (Cisco/CCNA).
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+#### 🐧 Operating Systems & Environments
+<p align="left">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot_OS-00E5FF?style=for-the-badge&logo=parrotos&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+#### 💻 Programming & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+#### 🔧 Infrastructure & Core Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-175BCC?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-167CE2?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Como me encontrar
-* **LinkedIn:** [https://www.linkedin.com/in/elpides-cristiano-844b31359/]
-* **E-mail:** [elpidescristiano@gmail.com]
+### 📊 Activity & GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elpidescristiano&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elpidescristiano&layout=compact&theme=radical)  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[Elpides Cristiano]&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Elpides Cristiano]&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
+</p>
 
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Elpides Cristiano]&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🌍 Vamos conectar?
+### 🎯 Professional Goals
+Focused on developing lightweight offensive security tools and mastering defensive infrastructure configuration. My goal is to build a solid baseline to deliver enterprise-grade penetration testing and architecture auditing.
+
+📫 **Let's connect:** `[elpidescristiano@gmail.com]`
