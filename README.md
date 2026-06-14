@@ -1,42 +1,47 @@
-# 👋 Olá, eu sou o Elpides Cristiano  
+# Olá, eu sou o ELpides Cristiano 👋
 
-💻 Programador | 🚀 Futuro Pentester | 🎯 Full Stack Developer em progresso
+Estudante de Informática focado em **Cibersegurança**, com ênfase em **Segurança Ofensiva (Red Teaming & Pentesting)**, desenvolvimento de ferramentas de segurança e infraestrutura de redes. 
 
----
-
-## 🌟 Sobre mim
-- 🔒 Apaixonado por **Segurança da Informação** e **Pentest**  
-- 💻 Estudante de **Desenvolvimento Full Stack**  
-- 🖧 Interessado em **Redes, Linux e Programação de baixo nível (C)**  
-- 🎯 Objetivo: Tornar-me **Pentester Profissional e Especialista em Cybersecurity**  
+Atualmente, sigo uma rotina rigorosa de estudos diários que envolve programação, laboratórios práticos de redes e desafios de hacking (Wargames/CTFs).
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
-<div align="center">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)  
-
-</div>
+### 🚀 Áreas de Foco e Estudo Atual
+* **Web Pentesting:** Praticando ativamente na *PortSwigger Web Security Academy*.
+* **Linux & Scripting:** Automatizando tarefas com Bash e aprofundando conceitos no Linux (*Bandit/OverTheWire*).
+* **Desenvolvimento:** Construindo ferramentas de segurança e scripts em **Python** e **C**.
+* **Redes de Computadores:** Configuração e arquitetura de redes baseadas em ambientes Cisco (CCNA).
 
 ---
 
-## 📌 Projetos em destaque
-- Ainda em construção...
+### 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, C, Bash script |
+| **Sistemas Operacionais** | Ubuntu, Linux (Terminal/CLI) |
+| **Redes** | Cisco IOS, Roteamento, Switching |
+| **Segurança/Pentesting** | Ferramentas de análise de vulnerabilidades Web, Wargames |
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
+### 🎯 Objetivos de Carreira
+Estou me preparando para atuar no mercado de segurança da informação, com o objetivo de prestar serviços de consultoria e auditoria de segurança (Pentesting) para empresas, ajudando-as a proteger suas infraestruturas contra ameaças modernas.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_AQUI]&show_icons=true&theme=radical" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_AQUI]&layout=compact&theme=radical" height="180" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 📫 Como me encontrar
+* **LinkedIn:** [https://www.linkedin.com/in/elpides-cristiano-844b31359/]
+* **E-mail:** [elpidescristiano@gmail.com]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elpidescristiano&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elpidescristiano&layout=compact&theme=radical)  
